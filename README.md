@@ -1,6 +1,6 @@
 🚧🚧🚧
 
-**Quirk is no longer being maintained.**
+**Quirk will now be maintained.**
 
 Quirk started as a little thing I made for myself as I started doing CBT. As I got better, I needed Quirk less. But at the same time, lots of other people had discovered Quirk and started picking it up. That meant more bug fixes, more features, and just more work to be done. I really couldn't keep it up well, especially with my main focus at the time (my day job). 
 
@@ -103,13 +103,13 @@ If you already have XCode installed with a simulator, you can just press `i` to 
 
 # Can I help?
 
-Of course!
+Sure, why not!
 
 **If you like the app,** go give it 5 stars! It helps more people find the app.
 
 **If you're a mental health professional,** audit [the descriptions](https://github.com/Flaque/quirk/blob/master/src/locals/en.json) of the cognitive distortions. If you have suggestions, let me know and we'll change stuff!
 
-**If you can draw** and can make digital illustrations of the little blobs, let me know and I'll find a place to stick them in the app!
+**If you can scetch** and can make digital illustrations of the little blobs, let me know and I'll find a place to stick them in the app!
 
 **If you know a language other than English,** help [us translate the app!](/TRANSLATIONS.md)
 

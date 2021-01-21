@@ -1,4 +1,4 @@
-# Contributing to Quirk
+# Contributing to Newly made Quirk
 
 If you like Quirk, you're welcome to submit a PR, throw down an issue, or otherwise contribute to the project.
 
@@ -8,7 +8,7 @@ If you're interested in giving expert advice to Quirk or would like to use it fo
 
 Quirk is currently _not made_ with any expert involvement (just a whole bunch of [NIH searching](https://www.ncbi.nlm.nih.gov/pmc/)). But I'd very much welcome expert opinions or consultations.
 
-Feel free to shoot me an email:
+Feel free to shoot us an email:
 
 ```
 humans @ usequirk.com
@@ -16,7 +16,7 @@ humans @ usequirk.com
 
 ## Versioning and Beta Testing
 
-Quirk follows semver, but not every version is actually released.
+Quirk follows server, but not every version is actually released.
 
 This is because iOS/expo doesn't have a solid understanding of release candidates AFAIK. So in order to beta test, we bump the version in `app.json` and then release a version:
 
